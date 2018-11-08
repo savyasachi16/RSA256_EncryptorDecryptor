@@ -1,2 +1,2 @@
 # RSA256_EncryptorDecryptor
-Simple RSA Encryptor and Decryptor
+A Simple RSA - 256 Encryptor and Decryptor
